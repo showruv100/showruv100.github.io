@@ -1,0 +1,209 @@
+
+/*xl device*/
+@media (min-width:1200px)and (max-width: 1500px){
+.benar-area h2 {
+    top: 19%;
+    
+}
+.cd-intro h1{
+    position: absolute;
+    top:41%;
+    color:#fff;
+    font-size: 24px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+}
+
+.btn {
+    margin-top: 17%;
+}
+
+
+}
+
+
+/*lg device*/
+@media (min-width:992px)and (max-width:1200px){
+.benar-area h2 {
+    top: 20%;
+    font-size: 44px;
+    line-height: 55px;
+}
+.cd-intro h1{
+    position: absolute;
+    top:43%;
+    color:#fff;
+    font-size: 20px;
+}
+*/
+.btn {
+    margin-top:12%;
+	
+    }
+    .my-services p {
+    padding: 0px 3px;
+}
+.testimonial-area {
+    padding: 38px 0px;
+}
+.blog-discrivetion p {
+    font-size: 14px;
+}
+
+}
+
+ 
+
+/*md device*/
+@media (min-width:768px)and (max-width:992px){
+	.benar-area h2{
+    top:20%;
+    font-size: 40px;
+    line-height: 60px;
+}
+.cd-intro h1{
+    position: absolute;
+    top:40%;
+    color:#fff;
+    font-size: 20px;
+}
+.btn {
+    margin-top:15%;
+}
+
+
+    .my-name hr {
+    margin-bottom: 20px;
+}
+.project-box span {
+    font-size: 37px;
+}
+
+.discrivetion p {
+    font-size: 13px;
+    margin-bottom: 15px;
+    line-height: 22px;
+}
+.my-services p {
+    color: #808680;
+    font-size: 16px;
+    padding: 0px 15px;
+}
+.my-services h2 {
+    font-size: 15px;
+}
+.my-services p {
+    font-size: 13px;
+    padding: 0px 6px;
+}
+.blog-discrivetion p {
+    font-size: 13px;
+    margin-bottom: 12px;
+}
+.blog-discrivetion h2 {
+    color: #fff;
+    font-size: 19px;
+    margin-top: 12px;
+    margin-bottom: 15px;
+}
+.blog-discrivetion a {
+    padding: 7px 14px;
+    font-size: 14px;
+}
+#scrollUp {
+    right: 19px;
+    bottom: 27px;
+}
+
+}
+
+
+/*sm device*/
+@media (min-width:576px)and (max-width:768px){
+.benar-area h2{
+    top:20%;
+    font-size: 35px;
+    line-height: 50px;
+}
+.cd-intro h1{
+    position: absolute;
+    top:37%;
+    color:#fff;
+    font-size: 20px;
+}
+.btn {
+    margin-top:20%;
+}
+.discrivetion p {
+    font-size: 14px;
+    line-height: 25px;
+}
+#scrollUp {
+    right: 19px;
+    bottom: 27px;
+}
+.navbar-nav{
+	background:#4A1FF7;
+	width: 100%;
+	height: 100%;
+	border-radius: 5px;
+    z-index: 999999;
+    position: relative;
+}
+.navbar-toggler{
+    color:#fff;
+}
+
+}
+
+    
+
+
+/*mobile device*/
+@media (max-width:575px){
+	#scrollUp {
+    right: 19px;
+    bottom: 27px;
+}
+
+.benar-area{
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+
+}
+.navbar-nav{
+  
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+.navbar-nav{
+    background:#4A1FF7;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    z-index: 999999;
+    position: relative;
+
+}
+.benar-area h2{
+    top:20%;
+    font-size: 25px;
+    line-height: 40px;
+}
+.cd-intro h1{
+    position: absolute;
+    top:38%;
+    color:#fff;
+    font-size: 15px;
+}
+.btn {
+    margin-top: 40%;
+}
+
+
+}
